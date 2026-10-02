@@ -15,3 +15,8 @@ Team Members & Roles)
 ​عمرو محمد البدراوي عثمان: عضو فريق التصميم والتطوير  
 ​سميحة شوقي محمد: عضو فريق التصميم والتطوير  
 ​طارق ياسر السعيد: عضو فريق التصميم والتطوير
+______________________________________________
+The Project:
+1/ https://www.figma.com/design/XLJcP5b5cXdkjlDsb9ZHYq/Bunya-Project?node-id=0-1&t=EqUriAtMTiSLJAQw-1
+
+2/https://www.figma.com/board/YZGRNjq78IKweXsbfSAmiB/Bunya-Project?node-id=0-1&t=wuDtlwW8ARwFfn0Y-1
